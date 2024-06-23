@@ -1,0 +1,14 @@
+/home/al/fujitsu/gudang/bin/Debug/net8.0/gudang
+/home/al/fujitsu/gudang/bin/Debug/net8.0/gudang.deps.json
+/home/al/fujitsu/gudang/bin/Debug/net8.0/gudang.runtimeconfig.json
+/home/al/fujitsu/gudang/bin/Debug/net8.0/gudang.dll
+/home/al/fujitsu/gudang/bin/Debug/net8.0/gudang.pdb
+/home/al/fujitsu/gudang/obj/Debug/net8.0/gudang.GeneratedMSBuildEditorConfig.editorconfig
+/home/al/fujitsu/gudang/obj/Debug/net8.0/gudang.AssemblyInfoInputs.cache
+/home/al/fujitsu/gudang/obj/Debug/net8.0/gudang.AssemblyInfo.cs
+/home/al/fujitsu/gudang/obj/Debug/net8.0/gudang.csproj.CoreCompileInputs.cache
+/home/al/fujitsu/gudang/obj/Debug/net8.0/gudang.dll
+/home/al/fujitsu/gudang/obj/Debug/net8.0/refint/gudang.dll
+/home/al/fujitsu/gudang/obj/Debug/net8.0/gudang.pdb
+/home/al/fujitsu/gudang/obj/Debug/net8.0/gudang.genruntimeconfig.cache
+/home/al/fujitsu/gudang/obj/Debug/net8.0/ref/gudang.dll
